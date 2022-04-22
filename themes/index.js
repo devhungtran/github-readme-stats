@@ -58,7 +58,7 @@ const themes = {
     title_color: "e683d9",
     icon_color: "0480ef",
     text_color: "75eeb2",
-    bg_color: "193549",
+    bg_color: "1935439",
   },
   synthwave: {
     title_color: "e2e9ec",
